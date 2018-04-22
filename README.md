@@ -17,3 +17,5 @@ What Belongs in Starter Kit
     - Working example app
 
 
+Travis CI  --> travis-ci.org; linux-based
+
